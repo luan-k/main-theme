@@ -1,8 +1,7 @@
 import "../styles/main.scss";
+import "./blocks/slider";
 
-/* import "./modules/counter.js"; */
-
-import { DisplayLabel } from "./components/counter";
+/* import { DisplayLabel } from "./components/counter";
 
 let Main = {
   init: async function () {
@@ -16,3 +15,4 @@ let Main = {
 Main.init();
 
 console.log(document.getElementById("main")[0]);
+ */
